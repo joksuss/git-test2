@@ -8,6 +8,9 @@
 <body>
     <h1>Hello Joko </h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla, maiores.</p>
+    <ul>
+        <li>Joko</li>
+    </ul>
     
 </body>
 </html>
